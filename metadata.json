@@ -1,0 +1,7 @@
+{
+  "name": "Sazón AI - Educación Bicultural",
+  "description": "An ultra-modern educational platform for Latinos in the US, combining AI education with bicultural support, focusing on critical thinking, creativity, generative AI, and entrepreneurship.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
